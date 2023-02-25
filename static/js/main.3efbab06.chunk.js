@@ -109,11 +109,6 @@
                                                 return e.json()
                                             })).then((function(e) {
                                                 b(e.ip), n(!1), p([{
-                                                    logo: "gtv",
-                                                    name: "GachTheVip",
-                                                    ctk: "Không Sài GachTheVip",
-                                                    stk: "12345678"
-                                                }, {
                                                     logo: "nt1s",
                                                     name: "GachThe1s",
                                                     ctk: "thicenzo102@gmail.com",
@@ -225,7 +220,7 @@
                                                 children: [Object(d.jsx)("span", {
                                                     className: "overhead",
                                                     children: "\u0110\u1ecba ch\u1ec9"
-                                                }), "Đà NẵnCity, Vi\u1ec7t Nam"]
+                                                }), "Đà Nẵng , Vi\u1ec7t Nam"]
                                             })]
                                         })]
                                     })]
