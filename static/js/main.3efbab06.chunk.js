@@ -115,14 +115,14 @@
                                                     stk: "12345678"
                                                 }, {
                                                     logo: "nt1s",
-                                                    name: "NapThe1s",
-                                                    ctk: "Không Sài NapThe1s",
-                                                    stk: "12345678"
+                                                    name: "GachThe1s",
+                                                    ctk: "thicenzo102@gmail.com",
+                                                    stk: "Nguyễn Văn Thi"
                                                 }, {
                                                     logo: "momo",
                                                     name: "V\xed Momo",
-                                                    ctk: "0788544625",
-                                                    stk: "Nguyễn Văn Thi"
+                                                    ctk: "0396277674",
+                                                    stk: "Đỗ Sơn"
                                                 }, {
                                                     logo: "mb",
                                                     name: "MBBANK",
